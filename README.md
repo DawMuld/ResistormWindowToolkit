@@ -1,3 +1,3 @@
 # ResistormWindowToolkit
 JavaFX enriched UI Controls (inspired by Material Design)
-![InvoiceItemPreview]()
+![InvoiceItemPreview](3aR6sjPEew.gif)
